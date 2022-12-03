@@ -8,6 +8,6 @@ Alguma coisa estou mantendo em inguês mesmo, outras estou fazendo a tradução 
 
 Para ver no navegadores entre no link do github abaixo.
 
-Link do github site aqui:
+Link do github site aqui:  https://devosvaldo2020.github.io/projeto-jogo-da-velha/
 
 Opa terminei deu certo mais um, aproveita de joga um pouquinho, faz o teste.
