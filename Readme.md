@@ -10,4 +10,4 @@ Para ver no navegadores entre no link do github abaixo.
 
 Link do github site aqui:  https://devosvaldo2020.github.io/projeto-jogo-da-velha/
 
-Opa terminei deu certo mais um, aproveita de joga um pouquinho, faz o teste.
+Opa terminei deu certo mais um, aproveita e joga um pouquinho, faz o teste.
